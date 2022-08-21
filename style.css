@@ -1,0 +1,25 @@
+#footer{
+    bottom: 0;
+    background: linear-gradient(rgb(255, 187, 0) 0%, rgb(255, 60, 0) 100%);
+    color: white;
+}
+#sc{
+    font-family: cursive;
+}
+#stmstts{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-style: ridge;
+}
+#result1, #result2, #result3{
+    padding: 5px;
+}
+img:hover{
+    width:600px;
+}
+.column{
+    padding: 2px;
+}
